@@ -1,2 +1,2 @@
 # touchstones
-iOS game
+iOS/macOS game
